@@ -160,11 +160,15 @@ python3 LLM_chat.py
 
 给出的回答位于./choice_text 与 ./chat_text
 
+针对专家意见构建的知识图谱为于./choice_graph与./chat_graph
+(下面展示样例)
 
+![](./choice_graph/demo.png)
 
-针对专家意见构建的知识图谱为于choice_graph与chat_graph
-
-
+## 视频位置
+链接：https://pan.baidu.com/s/13QtrtyPHXJ9mwmiGFw9WfA 
+提取码：d1h4 
+--来自百度网盘超级会员V5的分享
 
 ### 项目成员
 
